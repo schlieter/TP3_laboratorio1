@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1476656696 source:f:\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1476658541 f:\tp_3_cascara\funciones.h
+
+1476658559 source:f:\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1476935567 source:c:\users\nahuel\desktop\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1476940685 c:\users\nahuel\desktop\tp_3_cascara\funciones.h
+
+1476939936 source:c:\users\nahuel\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1480787077 source:c:\users\nahuel\desktop\tp_3_cascaramejorado\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1463521274 c:\users\nahuel\desktop\tp_3_cascaramejorado\arraylist.h
+
+1480799102 source:c:\users\nahuel\desktop\tp_3_cascaramejorado\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1480799536 c:\users\nahuel\desktop\tp_3_cascaramejorado\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1480798983 source:c:\users\nahuel\desktop\tp_3_cascaramejorado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
