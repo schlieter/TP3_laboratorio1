@@ -184,9 +184,9 @@ void GenerarPagina(ArrayList *Pag,EMovie *Peli)
             auxiliar = al_get(Pag,i);
             fprintf(Pagina,"<article class='col-md-4 article-intro'><a href='#'><img class='img-responsive img-rounded' src='%s'alt=''>",auxiliar->linkImagen);
             fprintf(Pagina,"</a><h3><a href='#'>%s</a></h3><ul>",auxiliar->titulo);
-            fprintf(Pagina,"<li>Género:%s</li>",auxiliar->genero);
-            fprintf(Pagina,"<li>Puntaje:%d</li>",auxiliar->puntaje);
-            fprintf(Pagina,"<li>Duracion:%d</li></ul>",auxiliar->duracion);
+            fprintf(Pagina,"<li>GÃ©nero:%s</li>",auxiliar->genero);
+            fprintf(Pagina,"<li>Puntaje:%d - 5</li>",auxiliar->puntaje);
+            fprintf(Pagina,"<li>Duracion:%d min.</li></ul>",auxiliar->duracion);
             fprintf(Pagina,"<p>Descripcion:%s</p></article>",auxiliar->descripcion);
         }
         fclose(Pagina);
